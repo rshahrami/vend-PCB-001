@@ -64,23 +64,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DUJXNVUC
 
 [Document2]
-DocumentPath=Controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HSHEHWZP
-
-[Document3]
 DocumentPath=GSM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCTOSFAF
 
-[Document4]
+[Document3]
 DocumentPath=Motor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCHBQQMA
 
-[Document5]
+[Document4]
 DocumentPath=GLCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDENSOZD
 
-[Document6]
+[Document5]
 DocumentPath=Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZYALURS
 
-[Document7]
+[Document6]
 DocumentPath=Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJAIBTVY
 
-[Document8]
+[Document7]
 DocumentPath=POS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBZRUMQX
 
-[Document9]
+[Document8]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNMJTBSW
 
-[Document10]
+[Document9]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGONTXXA
 
-[Document11]
+[Document10]
 DocumentPath=vending-pad-002.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,41 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
-DocumentPath=GSM.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=Controller.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
+[Document11]
 DocumentPath=Motor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document12]
 DocumentPath=Switch.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document13]
 DocumentPath=GLCD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document14]
 DocumentPath=Sensor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=KeyPad.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPITPJRW
 
-[Document19]
+[Document16]
 DocumentPath=KeyPad.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document17]
 DocumentPath=SDcard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNFTTGMV
 
-[Document21]
+[Document18]
 DocumentPath=SDcard.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document19]
 DocumentPath=Lighting.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVGQSURQ
 
-[Document23]
+[Document20]
 DocumentPath=Lighting.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -432,6 +381,57 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=Controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HSHEHWZP
+
+[Document22]
+DocumentPath=GSM.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=Controller.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
